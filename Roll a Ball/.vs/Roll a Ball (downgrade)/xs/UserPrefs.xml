@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{A35AF836-1A0F-031D-2DB7-998FECE5D1EA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/FinalSummary.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameManager.cs" Line="10" Column="1" />
+      <File FileName="Assets/Scripts/CameraController.cs" Line="8" Column="45" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="119" Column="27" />
+      <File FileName="Assets/Scripts/BeginMenu.cs" Line="21" Column="6" />
+      <File FileName="Assets/Scripts/HelpMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/FinalSummary.cs" Line="12" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Roll a Ball (downgrade)" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="FinalSummary.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="76ea6fd6-1b2a-4553-b5cf-37fb06e56e91" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
